@@ -21,5 +21,5 @@ This application is covered under the Artistic-2.0 license
 ## Questions
 Still have questions? Contact me at the links below
     
-[Github](github.com/cgh)
+github.com/cgh
 [Email](ghcv)
