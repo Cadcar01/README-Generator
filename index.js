@@ -80,8 +80,8 @@ This application is covered under the ${license} license
 ## Questions
 Still have questions? Contact me at the links below
     
-[Github](github.com/${github})
-[Email](${email})`;
+[Github](https://github.com/${github})
+Email: ${email}`;
 
 // TODO: Create a function to initialize app
 function init() {
